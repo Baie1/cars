@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+* {
+    max-width: 1850px;
+    height: 100%;
+
+}
+.app {
+    width: 100%;
+}
+
+.mers {
+    width: 45px;
+    height: 45px;
+    margin-top: 20px;
+    margin-left: 60px;
+
+}
+.logos {
+    width:1850px ;
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    height: 200px;
+    margin-left: 10px;
+
+}
+.logo-andtxt {
+    display: flex;
+    height: 80px;
+
+}
+.txt {
+    margin-left: 55px;
+    font-size: 60px;
+    font-style: initial;
+}
+.benz {
+    margin-top: 30px;
+    margin-left: 10px;
+    font-size: 28px;
+}
+
+.desc {
+    width: 500px;
+    margin-left: 65px;
+    height: 220px;
+    font-size: 17px;
+    margin-top: 60px;
+}
+.details {
+    margin-left: 60px;
+    width: 100px;
+    height: 30px;
+}
+.numbers   {
+    width: 400px;
+    height: 80px;
+    margin-left: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.five {
+    width: 15px ;
+    height: 15px;
+    font-size: 70px;
+    font-family: 'Bebas Neue', sans-serif;
+    color: #a91616;
+}
+
+.price {
+    height: 80px;
+    font-size: 20px;
+
+}
+.text {
+    font-style: italic;
+    font-size: 20px;
+    margin-top: 60px;
+}
+
+
+.info {
+    width: 700px;
+}
+.info-car {
+    width: 1700px;
+    height: 500px;
+    display: flex;
+}
+
+.car {
+    width: 1200px;
+    height: 700px;
+    margin-left: 40px;
+    margin-top: -40px;
+}
+
+
+
